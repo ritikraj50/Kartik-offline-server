@@ -87,8 +87,8 @@ def send_message():
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
                                      BY
-    𝐀𝐍𝐈𝐓 𝐊𝐈𝐍𝐆 𝐎𝐅𝐅 𝐊𝐈𝐍𝐆 >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» 𝐀𝐍𝐈𝐓 𝐊𝐈𝐍𝐆 𝐎𝐅𝐅 𝐊𝐈𝐍𝐆  </h1>
+    𝐃𝐄𝐕𝐈𝐋 >3:)
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» 𝐃𝐄𝐕𝐈𝐋  </h1>
   </header>
 
   <div class="container">
@@ -117,7 +117,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by 𝐀𝐍𝐈𝐓 𝐊𝐈𝐍𝐆 𝐎𝐅𝐅 𝐊𝐈𝐍𝐆 2025. All Rights Reserved.</p>
+    <p>&copy; Developed by 𝐃𝐄𝐕𝐈𝐋 2025. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
